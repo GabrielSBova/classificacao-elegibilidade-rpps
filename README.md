@@ -13,9 +13,7 @@ Avaliar e comparar o desempenho de algoritmos de aprendizado de máquina supervi
 * `classificacao_rpps.py`: Script completo contendo a geração da base tabular anonimizada calibrada às regras previdenciárias (EC 103/2019), engenharia de atributos, divisão estratificada (80/20), validação cruzada estratificada (*5-fold*) com busca em grade (*Grid Search*) e avaliação das métricas no conjunto de teste.
 
 ## Requisitos e Execução
-1. Instale as dependências:
-```bash
-pip install numpy pandas scikit-learn xgboost
+
 1. Instale as dependências:
 ```bash
 pip install numpy pandas scikit-learn xgboost
